@@ -6,7 +6,7 @@ Hello there! I'm a computer engineering from the University of Rome Tor Vergata 
 
 <div align="center">
   
-![](https://raw.githubusercontent.com/alessandrofinocchi/github-stats-copy/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/AlessandroFinocchi/github-stats-copy/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/AlessandroFinocchi/github-stats-copy/master/generated/languages.svg#gh-dark-mode-only)
 
 </div>
