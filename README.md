@@ -3,10 +3,21 @@
 Hello there! I'm a computer engineering from the University of Rome Tor Vergata where I'm currently completing my Master's degree journey.
 
 ## The force <!-- Stats -->
+<div align="center">
+  
+[![My GitHub Language Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlessandroFinocchi&theme=tokyonight&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<div align="center">
+  
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AlessandroFinocchi&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 ![](https://raw.githubusercontent.com/AlessandroFinocchi/alessandrofinocchi/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/alessandrofinocchi/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/AlessandroFinocchi/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
 ## The Jedi toolkit <!-- Core proficiencies -->
 
 <!-- OSs -->
