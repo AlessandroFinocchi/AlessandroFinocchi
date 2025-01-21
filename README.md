@@ -1,8 +1,8 @@
-# In a Repository Far, Far Away... The code strikes back!
+# In a Repository Far, Far Away... 
 
 Hello there! I'm a computer engineering from the University of Rome Tor Vergata where I'm currently completing my Master's degree journey.
 
-## The force <!-- Stats -->
+## ...The code strikes back! <!-- Stats -->
 <div align="center">
   
 [![My GitHub Language Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlessandroFinocchi&theme=tokyonight&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
