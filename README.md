@@ -11,7 +11,7 @@ Hello there! I'm a computer engineering from the University of Rome Tor Vergata 
 
 </div>
 
-## The Jedi toolkit <!-- Core proficiencies -->
+## My Jedi toolkit <!-- Core proficiencies -->
 
 <!-- OSs -->
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
